@@ -1,0 +1,19 @@
+{
+  "name": "presentacion-apis-sytw",
+  "version": "1.0.0",
+  "description": "Presentacion sobre APIS para SYTW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Losnen/PresentacionAPIS_STYW.git"
+  },
+  "author": "Samuel Ramos Barroso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Losnen/PresentacionAPIS_STYW/issues"
+  },
+  "homepage": "https://github.com/Losnen/PresentacionAPIS_STYW#readme"
+}
